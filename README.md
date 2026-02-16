@@ -1,0 +1,8 @@
+THIS IS SIMPLE FORUM ---
+
+
+my_forum version 1.0.0
+--- YOU CAN CREATE THEME FOR CONVERSATION WITH STRANGERS 
+        AND TALK ABOUT EVERY THING WITH FEW PEOPLES ---
+            
+        
